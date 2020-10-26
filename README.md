@@ -1,5 +1,13 @@
 北海道が好きです:snowman:
 
+## アウトプット 2020 (記事, スライド)
+
+スライド
+https://speakerdeck.com/somen440
+
+記事
+https://www.notion.so/2020-a1317c37ecb84fbc88b65eb18536528c
+
 ## GitHub 履歴
 
 ### 概要
@@ -44,6 +52,9 @@
 |2020.08|[[Golang] golang でモールス信号変換（音声変換できると面白いなと思ってその下準備）](https://github.com/somen440/gorse)|
 |2020.08|[[Typescript] React, toolkit を使ったモダンなフロントエンドを触ってみたもの](https://github.com/somen440/toolkit-ts-counter)|
 |2020.09~現在|[Golang] gRPC, モノレポ, Cloud Run でアプリケーション制作中（private）|
+
+2020 年のアウトプット
+https://www.notion.so/Golang-2020-a1317c37ecb84fbc88b65eb18536528c
 
 ## 業務履歴
 
