@@ -53,9 +53,6 @@ https://www.notion.so/2020-a1317c37ecb84fbc88b65eb18536528c
 |2020.08|[[Typescript] React, toolkit を使ったモダンなフロントエンドを触ってみたもの](https://github.com/somen440/toolkit-ts-counter)|
 |2020.09~現在|[Golang] gRPC, モノレポ, Cloud Run でアプリケーション制作中（private）|
 
-2020 年のアウトプット
-https://www.notion.so/Golang-2020-a1317c37ecb84fbc88b65eb18536528c
-
 ## 業務履歴
 
 ### 概要
