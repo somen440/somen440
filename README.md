@@ -51,7 +51,7 @@ https://www.notion.so/2020-a1317c37ecb84fbc88b65eb18536528c
 |2020.08|[[Golang] golang でぷよぷよ（ゲームを作りたかった）](https://github.com/somen440/puyo)|
 |2020.08|[[Golang] golang でモールス信号変換（音声変換できると面白いなと思ってその下準備）](https://github.com/somen440/gorse)|
 |2020.08|[[Typescript] React, toolkit を使ったモダンなフロントエンドを触ってみたもの](https://github.com/somen440/toolkit-ts-counter)|
-|2020.09~現在|[Golang] gRPC, モノレポ, Cloud Run でアプリケーション制作中（private）|
+|2020.12|[[Golang] マイクロサービスサーガパターンのサンプル実装](https://github.com/somen440/saga-sample)|
 
 ## 業務履歴
 
