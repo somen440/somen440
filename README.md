@@ -3,10 +3,11 @@
 ## アウトプット 2020 (記事, スライド)
 
 スライド
-https://speakerdeck.com/somen440
+- https://speakerdeck.com/somen440
 
 記事
-https://www.notion.so/2020-a1317c37ecb84fbc88b65eb18536528c
+- https://qiita.com/somen440
+- https://www.notion.so/2020-a1317c37ecb84fbc88b65eb18536528c
 
 ## GitHub 履歴
 
