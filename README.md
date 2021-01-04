@@ -1,6 +1,9 @@
 北海道が好きです:snowman:
 
-## アウトプット 2020 (記事, スライド)
+## アウトプット(記事, スライド)
+
+最新
+- https://www.notion.so/2021-8265b992c75c4a7ca641b1babfaa6b2e
 
 スライド
 - https://speakerdeck.com/somen440
@@ -53,4 +56,5 @@
 |2020.08|[[Golang] golang でモールス信号変換（音声変換できると面白いなと思ってその下準備）](https://github.com/somen440/gorse)|
 |2020.08|[[Typescript] React, toolkit を使ったモダンなフロントエンドを触ってみたもの](https://github.com/somen440/toolkit-ts-counter)|
 |2020.12|[[Golang] マイクロサービスサーガパターンのサンプル実装](https://github.com/somen440/saga-sample)|
+|2020.01|[[Golang]x[Flutter]x[gRPC]Todoサンプル](https://github.com/somen440/flutter-go-todo)|
 
