@@ -63,5 +63,6 @@
 |2020.08|[[Typescript] React, toolkit を使ったモダンなフロントエンドを触ってみたもの](https://github.com/somen440/toolkit-ts-counter)|
 |2020.12|[[Golang] マイクロサービスサーガパターンのサンプル実装](https://github.com/somen440/saga-sample)|
 |2021.01|[[Golang]x[Flutter]x[gRPC]Todoサンプル](https://github.com/somen440/flutter-go-todo)|20
+|2021.02|[GraphQL x Apollo x Netlify で web アプリケーションサンプル](https://github.com/somen440/favcy)|
 |2021.03|[[Perl] mojolicious で実装する Slack Slash Command](https://github.com/somen440/dakuten)|
 
