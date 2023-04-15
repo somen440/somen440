@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/somen440/somen440/master/profile-summary-card-output/great_gatsby/4-productive-time.svg)
+```
+
+    
