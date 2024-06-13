@@ -1,6 +1,1 @@
-北海道が好きです:snowman:
-
-[![](https://raw.githubusercontent.com/somen440/somen440/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/somen440/somen440/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/somen440/somen440/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+北海道が好きです ⛄
